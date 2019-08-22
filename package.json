@@ -1,7 +1,7 @@
 {
   "name": "flux-atom-syntax",
   "theme": "syntax",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "repository": "https://github.com/ButsAndCats/flux-atom-syntax",
   "description": "A dark and vibrant syntax theme for Atom",
   "license": "MIT",
